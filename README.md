@@ -1,8 +1,10 @@
-#### Immigrant-Data-Analysis
+#### IMMIGRANT-DATA-ANALYSIS
+---
 
 
 
 ### Table of Contents
+---
 
 - [Project Overview](project-overview)
 
@@ -59,8 +61,13 @@ Calendar = CALENDARAUTO()
 DAX
 Year = YEAR([Date])
 
+![Calendar](https://github.com/user-attachments/assets/f0d4aa0b-fa7f-49aa-8323-e6cc14524786)
+
+
 Relationship Setup: Established a relationship between the main dataset and the calendar table using the date field.
 
+
+![Relationship](https://github.com/user-attachments/assets/846dd6af-b2e6-4b80-a352-ce4b692a54d2)
 
 
 ## Data Analysis
@@ -120,11 +127,9 @@ The dashboard effectively illustrates immigration trends by state and port, prov
 
 ## Visuals
 
-<p align="center">
-  <img src="https://via.placeholder.com/300" width="45%" alt=![Immigrants Dashboard](https://github.com/user-attachments/assets/fa5425b7-a2b8-479b-8a00-69e3942d4446)>
-  <img src="https://via.placeholder.com/300" width="45%" alt=![Immigrants Dashboard 2](https://github.com/user-attachments/assets/2b174c8c-74b7-46f5-afcd-6be6f2633045)
->
-</p>
+![Immigrants Dashboard](https://github.com/user-attachments/assets/fa5425b7-a2b8-479b-8a00-69e3942d4446)
+![Immigrants Dashboard 2](https://github.com/user-attachments/assets/2b174c8c-74b7-46f5-afcd-6be6f2633045)
+
 
 
 ## Conclusion
